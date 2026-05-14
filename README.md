@@ -155,8 +155,8 @@ Most open-source e-commerce templates either use outdated stacks or lack real pa
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/Theikol/dchal-store.git
-cd dchal-store
+git clone https://github.com/Theikol/MyEcommerce.git
+cd MyEcommerce
 
 # Install backend dependencies
 cd backend && npm install
